@@ -3,7 +3,6 @@
     Space: O(1)
     Note: 
     URL: https://leetcode.com/problems/backspace-string-compare/
-
  */
 var backspaceCompare = function (s, t) {
   let sIdx = s.length - 1;
