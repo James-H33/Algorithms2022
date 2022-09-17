@@ -1,8 +1,8 @@
 /*
-    Time: O(?)
-    Space: O(n)
-    Note: Backtracking, keeping track of a current sum for each iteration.
-    URL: https://leetcode.com/problems/combination-sum/
+  Time: O(?)
+  Space: O(n)
+  Note: Backtracking, keeping track of a current sum for each iteration.
+  URL: https://leetcode.com/problems/combination-sum/
  */
 var combinationSum = function (c, target) {
   let output = [];
