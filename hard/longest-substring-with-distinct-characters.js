@@ -1,6 +1,6 @@
 /*
-    Time: O(m + n)
-    Space: O(m + n)
+    Time: O(n)
+    Space: O(n)
     Note: Sliding window with Hashmap. Loop through str and keep track of unique chars; update max on each iteration.
     window and check matches.
     URL: https://www.educative.io/courses/grokking-the-coding-interview/3wDJAYG2pAR
